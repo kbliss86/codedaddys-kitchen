@@ -22,6 +22,9 @@ Radix UI has rapidly gained traction among developers for its unique approach to
 #### [Headless UI](https://headlessui.com/)
 Similar to Radix UI, Headless UI is a collection of unstyled, accessible UI components. Built on top of Tailwind CSS, it gives developers the freedom to fully control the look and feel of their user interfaces, making it a flexible choice for custom design implementations.
 
+#### [React-Icons](https://react-icons.github.io/react-icons/)
+Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+
 ### Frameworks
 
 #### [Next.js](https://nextjs.org/)

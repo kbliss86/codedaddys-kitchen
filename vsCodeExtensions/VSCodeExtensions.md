@@ -97,3 +97,7 @@ This guide provides a list of essential VS Code extensions, including their name
 - **Language/Framework**: Java
 - **Description**: A Java testing tool that provides support for running and debugging tests, with integrated test reporting.
 
+### 20. Test Runner for Java
+- **Publisher**: Angular.dev
+- **Language/Framework**: Angular
+- **Description**: Editor services for Angular templates, This extension provides a rich editing experience for Angular templates, both inline and external templates including: Completions lists, AOT Diagnostic messages, Quick info, Go to definition    
