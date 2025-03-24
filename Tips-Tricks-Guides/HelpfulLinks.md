@@ -10,3 +10,6 @@ This README includes some helpful resources for developers to reference.
 
 ## CamelCase
 - [CamelCase](https://simple.wikipedia.org/wiki/CamelCase): A description of CamelCase from Simple English Wikipedia.
+
+## JSON PlaceHolder
+- [JSON PlaceHolder](https://jsonplaceholder.typicode.com/): Free fake and reliable API for testing and prototyping.

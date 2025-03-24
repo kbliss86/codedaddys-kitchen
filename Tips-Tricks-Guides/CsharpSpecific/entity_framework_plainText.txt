@@ -1,0 +1,1 @@
+Scaffold-DbContext 'Data Source=KENDALL-PC\SQLEXPRESS;Initial Catalog=DoctorDB;Integrated Security=SSPI;Encrypt=false;TrustServerCertificate=True;' Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
