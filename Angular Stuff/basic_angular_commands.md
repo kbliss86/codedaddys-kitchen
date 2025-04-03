@@ -6,6 +6,13 @@ From bash shell, go to your dev folder and type the following (but replace "myap
 
 ```bash
 ng new myapp
+```
+
+### Select the following options
+- **Which Styleheet format**: Choose CSS
+- **Do you want to enable server side rendering**: Choose No (its also the defualt most of the time)
+
+```bash
 cd myapp
 code .
 ```
@@ -36,6 +43,9 @@ ng serve -o
 
 **Error?** If you see an error about port in use, you probably have another angular app running. Go find that angular app's terminal, and stop the server by pressing Ctrl+C.
 
+## 6. Stop the Server
+To stop the server, Hit ctrl-c - it may take a few seconds
+
 ## Common Next Steps
 
 ### Create an interface
@@ -43,7 +53,7 @@ ng serve -o
 Generally we start with our model, so build the interface:
 
 ```
-ng generate interface beverage
+ng generate interface {interfaace name}
 ```
 
 Open it and fill it in.
@@ -53,7 +63,7 @@ Open it and fill it in.
 You will usually want a service handling the data, as well as a service for API calling.
 
 ```
-ng generate service bev
+ng generate service {service name}
 ```
 
 Inside the service, you will likely have your data. If it's local data, it might for example an array of your interface.
@@ -61,7 +71,7 @@ Inside the service, you will likely have your data. If it's local data, it might
 ### Build your components
 
 When you want to create a component, type the following (but replace "show-pet" with the name of your component):
-```bash
-ng generate component show-pet
+```
+ng generate component {component name}
 ```
 

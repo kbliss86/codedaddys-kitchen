@@ -17,3 +17,7 @@ Below is a list of common tools for developers along with download links and bri
 ## 4. MockAPI.io
 - **Site Link**: [mockapi.io](https://mockapi.io/)
 - **Description**: Quickly setup endpoints, generate custom data, and perform operations on it using RESTful interface
+
+## 5. JWT.ms
+- **Site Link**: [jwt.ms](https://jwt.ms/)
+- **Description**: Test and Decode string values of JSON Web Tokens
